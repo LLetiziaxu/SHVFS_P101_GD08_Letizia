@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHVFS_P101_GD08_HW1_Letizia", "SHVFS_P101_GD08_HW1_Letizia\SHVFS_P101_GD08_HW1_Letizia.csproj", "{AAF88781-4571-4E11-901C-D6BB5E8586CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF88781-4571-4E11-901C-D6BB5E8586CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF88781-4571-4E11-901C-D6BB5E8586CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF88781-4571-4E11-901C-D6BB5E8586CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF88781-4571-4E11-901C-D6BB5E8586CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B30C69-3DCF-4907-9692-539C930F0215}
+	EndGlobalSection
+EndGlobal
