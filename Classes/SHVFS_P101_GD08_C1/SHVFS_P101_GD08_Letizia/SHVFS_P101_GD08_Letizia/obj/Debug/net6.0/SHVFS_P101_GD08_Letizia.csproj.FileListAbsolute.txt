@@ -1,0 +1,15 @@
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\bin\Debug\net6.0\SHVFS_P101_GD08_Letizia.exe
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\bin\Debug\net6.0\SHVFS_P101_GD08_Letizia.deps.json
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\bin\Debug\net6.0\SHVFS_P101_GD08_Letizia.runtimeconfig.json
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\bin\Debug\net6.0\SHVFS_P101_GD08_Letizia.dll
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\bin\Debug\net6.0\SHVFS_P101_GD08_Letizia.pdb
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.dll
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\refint\SHVFS_P101_GD08_Letizia.dll
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.pdb
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\SHVFS_P101_GD08_Letizia.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_Letizia\SHVFS_P101_GD08_Letizia\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Letizia.dll
