@@ -10,11 +10,24 @@ namespace SHVFS_P101_GD08_Letizia
     {
         public static void Main()
         {
-            var object1 = new Gameobject("aa", new Position(0, 0, 0));
-            var object2 = new Gameobject("bb", new Position(1, 5, 9));
-            var object3 = new Gameobject("cc", new Position(2, 4, 6));
-            var object4 = new Gameobject("dd", new Position(4, 8, 7));
-            var object5 = new Gameobject("ee", new Position(0, 0, 0));
+            var obm = new Gameobject[5];
+            obm[0] = new Gameobject("aa", new Position(10, 10, 0));
+            obm[1] = new Gameobject("bb", new Position(10, 0, 0));
+            obm[2] = new Gameobject("cc", new Position(0, 10, 10));
+            obm[3] = new Gameobject("dd", new Position(10, 0, 10));
+            obm[4] = new Gameobject("ee", new Position(10, 10, 0));
+
+            for (var i = 0; i < obm.Length; i++)
+            {
+                for (var j = 0; j < obm.Length; j++)
+                {
+                    if (i != j && obm[i].compare(obm[j]))
+                    {
+                        Console.WriteLine($"{obm[i].name} and {obm[j].name} have the save position.");
+                    }
+                }
+            }
+
 
 
 
