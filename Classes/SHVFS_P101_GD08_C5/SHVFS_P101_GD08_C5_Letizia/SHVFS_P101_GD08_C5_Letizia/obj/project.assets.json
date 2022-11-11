@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SHVFS_P101_GD08\\SHVFS_P101_GD08_C5\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia.csproj",
+      "projectUniqueName": "D:\\SHVFS_P101_Github\\SHVFS_P101_GD08_Letizia\\Classes\\SHVFS_P101_GD08_C5\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia.csproj",
       "projectName": "SHVFS_P101_GD08_C5_Letizia",
-      "projectPath": "D:\\SHVFS_P101_GD08\\SHVFS_P101_GD08_C5\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia.csproj",
+      "projectPath": "D:\\SHVFS_P101_Github\\SHVFS_P101_GD08_Letizia\\Classes\\SHVFS_P101_GD08_C5\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia.csproj",
       "packagesPath": "C:\\Users\\GD Student\\.nuget\\packages\\",
-      "outputPath": "D:\\SHVFS_P101_GD08\\SHVFS_P101_GD08_C5\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia\\obj\\",
+      "outputPath": "D:\\SHVFS_P101_Github\\SHVFS_P101_GD08_Letizia\\Classes\\SHVFS_P101_GD08_C5\\SHVFS_P101_GD08_C5_Letizia\\SHVFS_P101_GD08_C5_Letizia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GD Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

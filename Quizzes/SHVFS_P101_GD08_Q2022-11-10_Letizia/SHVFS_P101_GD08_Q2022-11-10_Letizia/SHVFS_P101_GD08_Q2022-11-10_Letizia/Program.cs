@@ -23,7 +23,7 @@ namespace SHVFS_P101_GD08_Letizia
             while(typing != words[i])
             {
                 Console.WriteLine($"Please guess a word from list: 'Apple','Peach','Lemon',Melon'");
-                typing = Convert.ToString(Console.ReadLine());
+                typing = Console.ReadLine();
                 //if (typing != words[i])
                 //{
                 //    Console.WriteLine($"Unfortunately, you are wrong. Please try again.");
